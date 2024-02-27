@@ -40,7 +40,7 @@ const Form_application = () => {
       percentage: 30,
       id: 4
     },
-    {
+    {    
       name: "Saved",
       percentage: 30,
       id: 5
